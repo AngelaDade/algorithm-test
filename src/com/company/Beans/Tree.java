@@ -7,6 +7,10 @@ package com.company.Beans;
 //二叉树的类，主要持有成员变量有一个 类型为Node 的指向跟节点的 root
 //以及其他节点，在初始化时可以定义，先定义叶节点
 //http://blog.csdn.net/gfj0814/article/details/51637696
+//          a
+//      b       c
+//   d        e    f
+//x      y
 public class Tree {
     private Node root;
     public Tree () {

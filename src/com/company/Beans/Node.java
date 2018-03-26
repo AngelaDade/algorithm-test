@@ -12,6 +12,14 @@ public class Node {
     private Node leftChild;
     private Node rightChild;
 
+    public Node(){}
+
+    public Node (String data , Node leftChild , Node rightChild) {
+        this.data = data;
+        this.leftChild = leftChild;
+        this.rightChild = rightChild;
+    }
+
     public String getData() {
         return data;
     }
@@ -36,9 +44,5 @@ public class Node {
         this.rightChild = rightChild;
     }
 
-    public Node (String data , Node leftChild , Node rightChild) {
-       this.data = data;
-       this.leftChild = leftChild;
-       this.rightChild = rightChild;
-    }
+
 }
