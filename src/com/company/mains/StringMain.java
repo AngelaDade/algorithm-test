@@ -1,4 +1,4 @@
-package com.company;
+package com.company.mains;
 
 import com.company.StringAlgorithm.SpaceReplace;
 

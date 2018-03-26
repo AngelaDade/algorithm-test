@@ -1,4 +1,4 @@
-package com.company;
+package com.company.mains;
 
 /**
  * Created by lipeiyuan on 2017/11/15.
