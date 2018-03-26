@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f369bf6-ecd4-49e5-b580-3cf48bbbe4bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/ErgodicTree/PostOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/TestMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-test/com/company/Beans/Node.class" afterPath="$PROJECT_DIR$/out/production/algorithm-test/com/company/Beans/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-test/com/company/Beans/Tree.class" afterPath="$PROJECT_DIR$/out/production/algorithm-test/com/company/Beans/Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-test/com/company/ErgodicTree/PreOrder.class" afterPath="$PROJECT_DIR$/out/production/algorithm-test/com/company/ErgodicTree/PreOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-test/com/company/TreeMain.class" afterPath="$PROJECT_DIR$/out/production/algorithm-test/com/company/TreeMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/StringMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-test/com/company/TestMain.class" afterPath="$PROJECT_DIR$/out/production/algorithm-test/com/company/TestMain.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Beans/Node.java" afterPath="$PROJECT_DIR$/src/com/company/Beans/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Beans/Tree.java" afterPath="$PROJECT_DIR$/src/com/company/Beans/Tree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/ErgodicTree/MidOrder.java" afterPath="$PROJECT_DIR$/src/com/company/ErgodicTree/MidOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/ErgodicTree/PreOrder.java" afterPath="$PROJECT_DIR$/src/com/company/ErgodicTree/PreOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/TreeMain.java" afterPath="$PROJECT_DIR$/src/com/company/TreeMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/StringAlgorithm/SpaceReplace.java" afterPath="$PROJECT_DIR$/src/com/company/StringAlgorithm/SpaceReplace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/TestMain.java" afterPath="$PROJECT_DIR$/src/com/company/TestMain.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,27 +58,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Beans/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding>
-                <element signature="e#538#539#0" expanded="false" />
-                <element signature="e#570#571#0" expanded="false" />
-                <element signature="e#604#605#0" expanded="false" />
-                <element signature="e#636#637#0" expanded="false" />
-                <element signature="e#684#685#0" expanded="false" />
-                <element signature="e#726#727#0" expanded="false" />
-                <element signature="e#761#762#0" expanded="false" />
-                <element signature="e#794#795#0" expanded="false" />
-                <element signature="e#844#845#0" expanded="false" />
-                <element signature="e#888#889#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MidOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/ErgodicTree/MidOrder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,21 +70,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TestMain.java">
+      <file leaf-file-name="StringMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/StringMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="195">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpaceReplace.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/StringAlgorithm/SpaceReplace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testThreadMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/testThreadMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -154,6 +146,7 @@
       <find>run</find>
       <find>start</find>
       <find>sub</find>
+      <find>str</find>
     </findStrings>
     <replaceStrings>
       <replace>minIndex</replace>
@@ -198,7 +191,9 @@
         <option value="$PROJECT_DIR$/src/com/company/Beans/Tree.java" />
         <option value="$PROJECT_DIR$/src/com/company/ErgodicTree/PostOrder.java" />
         <option value="$PROJECT_DIR$/src/com/company/TreeMain.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringMain.java" />
         <option value="$PROJECT_DIR$/src/com/company/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringAlgorithm/SpaceReplace.java" />
       </list>
     </option>
   </component>
@@ -209,9 +204,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
+    <option name="x" value="41" />
     <option name="y" value="23" />
-    <option name="width" value="1398" />
+    <option name="width" value="1399" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -304,26 +299,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.TestMain">
-    <configuration default="false" name="testThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.Search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.testThreadMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm-test" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="StreamMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -392,6 +367,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.TestMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm-test" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.StringMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -732,19 +727,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.SortTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.testThreadMain" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StreamMain" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TreeMain" />
-      <item index="4" class="java.lang.String" itemvalue="Application.test" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TestMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StreamMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TreeMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestMain" />
+      <item index="5" class="java.lang.String" itemvalue="Application.StringMain" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.TestMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TreeMain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StreamMain" />
-        <item index="4" class="java.lang.String" itemvalue="Application.testThreadMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TreeMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StreamMain" />
       </list>
     </recent_temporary>
   </component>
@@ -794,12 +789,12 @@
       <workItem from="1521734505538" duration="2637000" />
       <workItem from="1521790857227" duration="371000" />
       <workItem from="1521809911222" duration="9770000" />
-      <workItem from="1521946874953" duration="3434000" />
+      <workItem from="1521946874953" duration="11880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89375000" />
+    <option name="totallyTimeSpent" value="97821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -811,7 +806,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1398" height="877" extended-state="6" />
+    <frame x="41" y="23" width="1399" height="877" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.4974208" order="6" side_tool="false" content_ui="tabs" />
@@ -824,7 +819,7 @@
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.4974208" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18510324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18496683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299045" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -856,14 +851,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/algorithm-test/com/company/BinarySearch.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/algorithm-test/com/company/tinyT.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/company/tinyT.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.class" />
@@ -1079,17 +1066,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/testThreadMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/StreamMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="60" column="43" lean-forward="false" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,6 +1080,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,14 +1155,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TreeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
@@ -1185,10 +1163,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TreeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/testThreadMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringAlgorithm/SpaceReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>

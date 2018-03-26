@@ -6,10 +6,11 @@ package com.company;
  */
 public class TestMain {
     public static void main(String[] args) {
-        String a = " a ";
+        String a = "";
         System.out.println(a.length());
 
-        System.out.println(a.contains(" "));
-        System.out.println(a.charAt(0) == ' ');
+
+
+
     }
 }
