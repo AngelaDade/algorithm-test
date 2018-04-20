@@ -2,6 +2,7 @@ package com.company.Sort;
 
 /**
  * Created by lipeiyuan on 2017/10/31.
+ * 希尔排序，特殊的插入排序
  */
 //希尔排序
 //public class ShellSort {

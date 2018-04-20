@@ -2,6 +2,7 @@ package com.company.Sort;
 
 /**
  * Created by lipeiyuan on 2017/10/31.
+ * 插入排序
  */
 public class InsertSort {
     public static int[] sort(int[] arr){
