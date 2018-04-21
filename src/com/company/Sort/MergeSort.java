@@ -5,6 +5,7 @@ import java.util.stream.Stream;
 /**
  * Created by lipeiyuan on 2018/4/16.
  * 归并排序，递归实现
+ * 分为两个部分，一个是merge数组一个是递归排序
  */
 public class MergeSort {
 
@@ -39,14 +40,19 @@ public class MergeSort {
 
     public int[] mergeSort(int[] arr , int low , int high) {
 
-
-        int mid = (high+low)/2;
-        //要给出出栈的条件
-        if (low < high) {
-            mergeSort(arr, low, mid);
-            mergeSort(arr, mid + 1, high);
-            merge(arr, low, mid, high);
+        //递归要先给出出栈的条件
+        if (low >= high) {
+            return null;
         }
+        int mid = (high+low)/2;
+
+        //左边归并排序
+        mergeSort(arr, low, mid);
+        //右边归并排序
+        mergeSort(arr, mid + 1, high);
+        //将已排序的两个数组合并
+        merge(arr, low, mid, high);
+
         return arr;
 
     }

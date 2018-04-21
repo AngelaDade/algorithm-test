@@ -7,7 +7,7 @@ public class QuickSort {
     //该方法用于返回传入的数组的中枢点，即该点左边都比其小右边都比其大，每一轮快排都能确定中枢点的坐标
     public static int getPivotIndex(int[] arr , int low , int high){
 
-        //固定切分发把数组的第一个数当做中枢值
+        //固定切分法把数组的第一个数当做中枢值
         int pivotIndex = low;
         int pivot = arr[low];
         while (low < high){
