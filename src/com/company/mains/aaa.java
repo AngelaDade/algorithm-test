@@ -15,9 +15,10 @@ public class aaa {
 //        String a = new String("a");
 //        String b = new String("a");
 //        System.out.println(a==b);
-        Map<Character,Integer> map = new HashMap<>();
-        map.put('p',0);
-        map.put('w',1);
+//        Map<Character,Integer> map = new HashMap<>();
+//        map.put('p',0);
+//        map.put('w',1);
+
 
     }
 }
