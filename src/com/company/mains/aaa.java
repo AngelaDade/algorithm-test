@@ -18,7 +18,10 @@ public class aaa {
 //        Map<Character,Integer> map = new HashMap<>();
 //        map.put('p',0);
 //        map.put('w',1);
-
+//        boolean[] a = new boolean[1];
+//        System.out.println(a[0]);
+        String s = null;
+        System.out.println(s.length());
 
     }
 }

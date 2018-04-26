@@ -62,11 +62,11 @@ public class LC3_LengthOfLongestSubstring {
         HashMap<Character,Integer> map = new HashMap<>();
         for (int left = 0 , ritht = 0 ; ritht < s.length() ;ritht++) {
             if (map.containsKey(s.charAt(ritht))) {
-                left = Math.max(left , map.get(s.charAt(ritht)));
+                left = Math.max(left , map.get(s.charAt(ritht))+1);
             }
-            //注意这里是right+1
+
             //因为map的vlaue表示如果接下来窗口的left移动的话要到的位置，所以直接加1表示当前位置的后一位
-            map.put(s.charAt(ritht),ritht+1);
+            map.put(s.charAt(ritht),ritht);
             result = Math.max(result , ritht-left+1);
         }
 

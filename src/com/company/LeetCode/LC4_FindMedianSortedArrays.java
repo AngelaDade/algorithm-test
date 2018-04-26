@@ -76,7 +76,7 @@ public class LC4_FindMedianSortedArrays {
         if (aLength > bLength) {
             return findKth(b,bStart,bLength,a,aStart,aLength,k);
         }
-        //如果短的长度为零，第k小在长的b中
+        //如果短的长度为零，第k小在长的b中,注意要用aLength而不是a.length
         if (aLength == 0) {
             return b[bStart+k-1];
         }
