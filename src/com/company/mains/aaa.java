@@ -1,5 +1,10 @@
 package com.company.mains;
 
+
+
+import com.company.Beans.Student;
+import com.google.gson.Gson;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -20,8 +25,21 @@ public class aaa {
 //        map.put('w',1);
 //        boolean[] a = new boolean[1];
 //        System.out.println(a[0]);
-        String s = null;
-        System.out.println(s.length());
+//        Student student = new Student("lipeiyuan",new Long(1),"男");
+//        String stuObj = new Gson().toJson(student);
+//        System.out.println(stuObj);
+//        String a = new String();
+//        System.out.println(a);
+        String b = "";
+        System.out.println(b);
+//        System.out.println(a+b.charAt(1));
 
+
+
+
+
+    }
+    public void ss() {
+        System.out.println("aaa");
     }
 }
